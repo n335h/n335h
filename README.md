@@ -47,3 +47,24 @@ I first tried to create a similar layout using Flex Boxes when I created my trib
   
   ![Tribute Page](https://github.com/n335h/n335h/blob/main/Flex%20-%20Website.png)
 </p>
+
+<h2> Day 3 </h2> 
+<em> Friday 10th March </em> <br>
+<h2> Today's progress:</h2>
+<p>
+<li>Completed all the Free Code Camp tutorials for Legacy Responsive Web Design, finishing sections: Applied Accesibility and Responsive Web Design Principles </li><br>
+
+<li> Looked into the (New) Responsive Web Design projects and completed; Learn basic CSS by building a Cafe Menu task </li><br>
+ 
+ <li> Practiced using Fieldsets to group several controls as well as labels within a web form by creating a very basic questionare.</li><br>
+
+
+<strong>Thoughts:</strong> <br>
+  
+Having finished the initial Responsive Web Design tutorials, I wanted to cement my knowledge of the basics and looked into the new responsive web design tasks, where I found the project to build a cafe menu. Whilst it wasn't glamorous or the most eye catching piece of work, the task helped reassure me I was retaining the knowledge I had learnt in the previous tutorials as well as teaching me new things about basic html/css that were previously not made clear. I also found myself able to quickly identify what was being asked of me, where there may have been some previous hesitation/confusion or general lack of confidence, I was now confident and assured in the code I was putting down. 
+
+The way the task leads you through the project was also interesting, as it will give you a solution to a particular goal, however, I was identifying better ways to reach the desired outcome (which would eventually be given to you during the task steps) a few steps before being shown, so it was a good confidence boost that I was understanding the basics. 
+  
+I plan to look into more of the tasks on free code camp in these last few days before the beginning of the course and am looking forward to taking on the Build a Survey Form task tomorrow. I'm really excited to start the course at this stage, I have found the learning and tasks very enjoyable, but I feel my learning will become more purposeful and focused on particular tasks/goals set out by my day to day learning. 
+ 
+</p>
