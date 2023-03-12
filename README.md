@@ -68,3 +68,20 @@ The way the task leads you through the project was also interesting, as it will 
 I plan to look into more of the tasks on free code camp in these last few days before the beginning of the course and am looking forward to taking on the Build a Survey Form task tomorrow. I'm really excited to start the course at this stage, I have found the learning and tasks very enjoyable, but I feel my learning will become more purposeful and focused on particular tasks/goals set out by my day to day learning. 
  
 </p>
+<h2> Day 4 </h2> 
+<em> Saturday 11th March </em> <br>
+<h2> Today's progress:</h2>
+<p>
+<li>Began the Free Code Camp task: Build a survey form for Legacy Responsive Web Design,  </li><br>
+
+
+<strong>Thoughts:</strong> <br>
+  
+I really enjoyed putting some of the knowledge I have learnt into practice making this survey form, it also taught me a few new things whilst working through the task. Using the example as a general template, I began to play around with different formatting of the checkboxes using the grids function and explored different ways of utilising css to style the surveys appearence. Having been watching White Lotus, I thought I'd joke around making a customer satisfaction form based on their hotels, as can be seen (hopefully) through the design this also led me to try and make a few references/jokes regarding the show within the questionaire. 
+  
+https://codepen.io/n335h/pen/NWLXEbQ
+   ![Survey Form](https://github.com/n335h/Surveyform/blob/main/WL%20Survey.png?raw=true)
+  
+ 
+</p>
+
