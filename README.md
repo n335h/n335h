@@ -111,7 +111,7 @@ Link to Project - https://codepen.io/n335h/pen/NWLXEbQ
 
 <strong>Thoughts:</strong> <br>
   
-My first day of the SoC course was interesting and full of important information regarding the next 16 weeks+. We were introduced into the concept of paired working whilst discussing some ideas and concepts that will be prevalent throughout the course. I'm really looking forward to getting stuck into the learning and tackling upcoming tasks. 
+My first day of the SoC course was interesting and full of important information regarding the next 16 weeks+. We were introduced to paired working whilst discussing some ideas and concepts that will be prevalent throughout the course. I'm really looking forward to getting stuck into the learning and tackling upcoming tasks. 
 
 During the day we had to work in our breakout rooms to complete the CSS Dinner task, it was great to discuss the problems with others whilst trying to find a solution, unfortunately we were not given a large amount of time to finish so it left me with some CSS concepts to explore later in the day. Using what I have learnt in the past few days and the information picked up during the previous problems, I found myself being able to find the solutions more easily the further I progressed. Overall I found the task an enjoyable way of learning CSS selectors, realistically, I feel I will need to keep utilising these in different scenarios regularly for them to become stuck in my mind, but am encouraged that I have the confidence that I will be able to solve the problem again, even if the knowledge isn't fresh in my mind. 
 
