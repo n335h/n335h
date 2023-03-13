@@ -79,9 +79,40 @@ I plan to look into more of the tasks on free code camp in these last few days b
   
 I really enjoyed putting some of the knowledge I have learnt into practice making this survey form, it also taught me a few new things whilst working through the task. Using the example as a general template, I began to play around with different formatting of the checkboxes using the grids function and explored different ways of utilising css to style the surveys appearence. Having been watching White Lotus, I thought I'd joke around making a customer satisfaction form based on their hotels, as can be seen (hopefully) through the design this also led me to try and make a few references/jokes regarding the show within the questionaire. 
   
-https://codepen.io/n335h/pen/NWLXEbQ
+ Link to Project - https://codepen.io/n335h/pen/NWLXEbQ
    ![Survey Form](https://github.com/n335h/Surveyform/blob/main/WL%20Survey.png?raw=true)
   
  
 </p>
+<h2> Day 5 </h2> 
+<em> Sunday 12th March </em> <br>
+<h2> Today's progress:</h2>
+<p>
+<li>Continued working on the FCC Survey form, correcting some errors and attempting to troubleshoot issues with mobile view</li><br>
 
+
+<strong>Thoughts:</strong> <br>
+  
+I discovered some design discrepancies when taking the form onto a mobile device, which did not seem to be consistent across different devices. I explored different scaling options for mobile view, which seemed to correct one issue and raise another, I plan to revisiting and keep exploring the options available to me as I progress through the course.
+  
+
+  
+Link to Project - https://codepen.io/n335h/pen/NWLXEbQ
+ 
+  
+ 
+</p>
+<h2> Day 6 </h2> 
+<em> Monday 13th March </em> <br>
+<h2> Today's progress:</h2>
+<p>
+<li> First day of the SoC course</li><br>
+<li> Completed the CSS Dinner task - https://flukeout.github.io/ </li><br>
+
+<strong>Thoughts:</strong> <br>
+  
+My first day of the SoC course was interesting and full of important information regarding the next 16 weeks+. We were introduced into the concept of paired working whilst discussing some ideas and concepts that will be prevalent throughout the course. I'm really looking forward to getting stuck into the learning and tackling upcoming tasks. 
+
+During the day we had to work in our breakout rooms to complete the CSS Dinner task, it was great to discuss the problems with others whilst trying to find a solution, unfortunately we were not given a large amount of time to finish so it left me with some CSS concepts to explore later in the day. Using what I have learnt in the past few days and the information picked up during the previous problems, I found myself being able to find the solutions more easily the further I progressed. Overall I found the task an enjoyable way of learning CSS selectors, realistically, I feel I will need to keep utilising these in different scenarios regularly for them to become stuck in my mind, but am encouraged that I have the confidence that I will be able to solve the problem again, even if the knowledge isn't fresh in my mind. 
+
+</p>
