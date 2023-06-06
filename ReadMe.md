@@ -1,14 +1,14 @@
 
 
-<h1>Hello</h1>
+<h1 align="center">Hello</h1>
 
-<p>I'm Nich Horishny, currently part of the School of Code cohort 14, 2023. 
+<p align="center">I'm Nich Horishny, currently part of the School of Code cohort 14, 2023. 
 
 🌍 I'm based in Coventry, UK <br>
 
 ✉️ You can contact me at nmjhorishny@gmail.com</p>
 <hr>
-<h3> Languages & Tools </h3>
+<h3 align="center"> Languages & Tools </h3>
 
 <p align="center"> 
 
