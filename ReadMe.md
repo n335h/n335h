@@ -4,7 +4,7 @@
 
 <p align="center">I'm Nich Horishny, currently part of the School of Code cohort 14, 2023. 
 
-🌍 I'm based in Coventry, UK <br>
+<p align="center">🌍 I'm based in Coventry, UK <br>
 
 ✉️ You can contact me at nmjhorishny@gmail.com</p>
 <hr>
