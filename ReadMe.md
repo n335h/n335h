@@ -6,7 +6,7 @@
 
 <p align="center">🌍 I'm based in Coventry, UK <br>
 
-✉️ You can contact me at nmjhorishny@gmail.com</p>
+<p align="center">✉️ You can contact me at nmjhorishny@gmail.com</p>
 <hr>
 <h3 align="center"> Languages & Tools </h3>
 
