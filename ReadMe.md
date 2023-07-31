@@ -2,7 +2,7 @@
 <div style="background-color: white;">
 <h1 align="center">Hello</h1>
 
-<p align="center">I'm Nich, I come from a background in Visual Communication and have just completed the School of Code Bootcamp Cohotort 14.
+I'm Nich, I come from a background in Visual Communication and have just completed the School of Code Bootcamp Cohotort 14.
 
 It was an immersive program that gave me the technical foundation and hands-on experience needed to dive into Full-Stack Development.
 
@@ -10,9 +10,9 @@ Now I'm all set to bring my creative skills and tech know-how together for this 
 
 Looking forward to making things happen! 
 
-<p align="center">🌍 I'm based in Coventry, UK <br>
+🌍 I'm based in Coventry, UK <br>
 
-<p align="center">✉️ You can contact me at nmjhorishny@gmail.com</p>
+✉️ You can contact me at nmjhorishny@gmail.com</p>
 <hr>
 <h3 align="center"> Languages & Tools </h3>
 
