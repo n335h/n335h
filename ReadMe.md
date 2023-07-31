@@ -8,7 +8,7 @@ It was an immersive program that gave me the technical foundation and hands-on e
 
 Now I'm all set to bring my creative skills and tech know-how together for this exciting new adventure.
 
-Looking forward to making things happen! 
+Looking forward to making things happen! <br>
 
 🌍 I'm based in Coventry, UK <br>
 
