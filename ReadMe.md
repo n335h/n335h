@@ -2,7 +2,13 @@
 <div style="background-color: white;">
 <h1 align="center">Hello</h1>
 
-<p align="center">I'm Nich Horishny, currently part of the School of Code cohort 14, 2023. 
+<p align="center">I'm Nich, I come from a background in Visual Communication and have just completed the School of Code Bootcamp Cohotort 14.
+
+It was an immersive program that gave me the technical foundation and hands-on experience needed to dive into Full-Stack Development.
+
+Now I'm all set to bring my creative skills and tech know-how together for this exciting new adventure.
+
+Looking forward to making things happen! 
 
 <p align="center">🌍 I'm based in Coventry, UK <br>
 
