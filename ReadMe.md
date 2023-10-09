@@ -36,3 +36,6 @@ Looking forward to making things happen! <br>
 <hr>
 <h3 align="center">My GitHub Stats</h3>
 
+
+[![Nichs GitHub stats](https://github-readme-stats.vercel.app/api?username=n335h)](https://github.com/n335h/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n335h)](https://github.com/n335h/github-readme-stats)
