@@ -15,7 +15,11 @@ Looking forward to making things happen! <br>
 
 🌍 I'm based in Coventry, UK <br>
 
-✉️ You can contact me at nmjhorishny@gmail.com</p>
+✉️Let's connect! Feel free to reach out to me through [email](mailto:nmjhorishny@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/nichhorishny/).
+
+You can find more about me on my [![Website](https://img.shields.io/badge/Website-<COLOR>.svg)](https://www.nhorishny.dev/)
+
+
  
 ![image](https://www.codewars.com/users/n335h/badges/micro) </span>
 <hr>
