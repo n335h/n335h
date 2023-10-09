@@ -1,5 +1,5 @@
 
-<div style="background-color: white;">
+<div align="center" style="background-color: white;">
  <h1 align="center">Hello</h1>
 
  
@@ -41,6 +41,8 @@ Looking forward to making things happen! <br>
 <hr>
 <h3 align="center">My GitHub Stats</h3>
 
-
+<div align="center">
+ 
 [![Nichs GitHub stats](https://github-readme-stats.vercel.app/api?username=n335h)](https://github.com/n335h/github-readme-stats)
 
+</div>
