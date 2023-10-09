@@ -1,6 +1,9 @@
 
 <div style="background-color: white;">
-<h1 align="center">Hello</h1>
+ <h1 align="center">Hello</h1>
+
+ 
+
 
 I'm Nich, I come from a background in Visual Communication and have just completed the School of Code Bootcamp Cohotort 14.
 
@@ -13,6 +16,8 @@ Looking forward to making things happen! <br>
 🌍 I'm based in Coventry, UK <br>
 
 ✉️ You can contact me at nmjhorishny@gmail.com</p>
+ 
+![image](https://www.codewars.com/users/n335h/badges/micro) </span>
 <hr>
 <h3 align="center"> Languages & Tools </h3>
 
