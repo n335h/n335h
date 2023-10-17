@@ -1,6 +1,6 @@
 
-<div align="center" style="background-color: white;">
- <h1 align="center">Hello</h1>
+<div align="left" style="background-color: white;">
+ <h1 align="left">Hello</h1>
 
  
 
@@ -23,9 +23,9 @@ You can find more about me on my [![Website](https://img.shields.io/badge/Websit
  
 ![image](https://www.codewars.com/users/n335h/badges/micro) </span>
 <hr>
-<h3 align="center"> Languages & Tools </h3>
+<h3 align="left"> Languages & Tools </h3>
 
-<p align="center"> 
+<p align="left"> 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40">
