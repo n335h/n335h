@@ -43,10 +43,5 @@ You can find more about me on my [![Website](https://img.shields.io/badge/Websit
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  width="40" height="40">
 </p>
 <hr>
-<h3 align="center">My GitHub Stats</h3>
 
-<div align="center">
- 
-[![Nichs GitHub stats](https://github-readme-stats.vercel.app/api?username=n335h)](https://github.com/n335h/github-readme-stats)
 
-</div>
